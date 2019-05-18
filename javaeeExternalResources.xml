@@ -1,0 +1,21 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/da084fef_spring-aop-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a32f63cf_spring-beans-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.1.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a33d7b50_spring-beans-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/cache" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/97ee09b0_spring-cache-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/1db4f4cf_spring-context-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/de84b8ef_spring-mvc-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/redis" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/b974184d_spring-redis-1.0.xsd" />
+    <resource url="http://www.springframework.org/schema/task/spring-task-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/76810bfb_spring-task-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/5f59e9a1_spring-tool-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.1.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/5f680122_spring-tool-3.1.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/7f2f82b9_spring-tool.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/221b8939_spring-tx-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/util/spring-util-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/dda19375_spring-util-3.0.xsd" />
+    <ignored-resource url="http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd" />
+    <ignored-resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" />
+    <ignored-resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" />
+    <ignored-resource url="http://www.springframework.org/schema/data/jpa" />
+  </component>
+</application>

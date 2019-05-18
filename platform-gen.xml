@@ -1,0 +1,7 @@
+<application>
+  <component name="com.platform.gen.component.AutoCodeConfigComponent">
+    <option name="databaseUrl" value="127.0.0.1:3306/shangxing" />
+    <option name="databasePwd" value="root" />
+    <option name="projectPath" value="F:\" />
+  </component>
+</application>
