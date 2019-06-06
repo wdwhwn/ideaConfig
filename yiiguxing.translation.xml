@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specification" />
       <item value="attribute" />
       <item value="身份证" />
       <item value="transport error 202: connect failed: Connection refused" />
