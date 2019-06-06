@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="身份证" />
       <item value="transport error 202: connect failed: Connection refused" />
       <item value="true" />
       <item value="RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054" />
@@ -16,7 +17,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
