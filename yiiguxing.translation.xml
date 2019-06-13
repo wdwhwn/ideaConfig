@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="specification" />
+      <item value="attribute" />
+      <item value="身份证" />
+      <item value="transport error 202: connect failed: Connection refused" />
+      <item value="true" />
       <item value="RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054" />
       <item value="unable to rewind rpc post data - try increasing http.postBuffer" />
       <item value="The remote end hung up unexpectedly" />
@@ -13,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
