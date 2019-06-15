@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取" />
       <item value="specification" />
       <item value="attribute" />
       <item value="身份证" />
@@ -19,7 +20,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
