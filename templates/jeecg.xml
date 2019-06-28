@@ -26,7 +26,7 @@
   <template name="paramp" value="&quot;$CLASS$.$METHOD$ , param:{$PARAM$}; &quot;$END$" description="打印当前方法收参" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="PARAM" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="groovyScript(&quot;_1.collect { it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', ') &quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
