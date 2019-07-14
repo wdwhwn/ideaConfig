@@ -4,6 +4,7 @@
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="application-local.properties" type="PLAIN_TEXT" />
       <mapping pattern="awjfoa" type="PLAIN_TEXT" />
+      <mapping pattern="15646" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

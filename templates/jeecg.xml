@@ -23,4 +23,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="paramp" value="log.error(&quot;$CLASS$.$METHOD$ , param:{$PARAM$} &quot;);&#10;$END$" description="打印当前方法收参" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="PARAM" expression="groovyScript(&quot;_1.collect { it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', ') &quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
