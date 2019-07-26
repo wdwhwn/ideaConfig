@@ -66,6 +66,10 @@
           <option name="url" value="https://gitee.com/wfafawf/MCMS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.oschina.net" />
+          <option name="userName" value="wdwhwn" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="H:\jeecg" />
