@@ -1,5 +1,7 @@
 <application>
   <component name="JrePropertiesCache">
-    <jre homeDir="D:\Java" arch64Bit="true" />
+    <list>
+      <jre homeDir="D:\wd\jdk1.8" arch64Bit="true" />
+    </list>
   </component>
 </application>
