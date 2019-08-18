@@ -1,0 +1,5 @@
+<application>
+  <component name="LimitedWIPSettings">
+    <option name="autoRevertEnabled" value="true" />
+  </component>
+</application>
