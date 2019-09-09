@@ -42,4 +42,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="td" value="//FGTODO author:wd date:$date$ desc:" description="添加todo" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
