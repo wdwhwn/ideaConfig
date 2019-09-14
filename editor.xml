@@ -3,11 +3,4 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-    <pattern pattern="\bfgtodo\b.*" />
-    <filter name="FG">
-      <pattern index="1" />
-    </filter>
-  </component>
 </application>
