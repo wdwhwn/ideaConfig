@@ -2,7 +2,6 @@
   <component name="JrePropertiesCache">
     <list>
       <jre homeDir="D:/Java" arch64Bit="true" />
-      <jre homeDir="D:/jdk-1.7" arch64Bit="true" />
     </list>
   </component>
 </application>
