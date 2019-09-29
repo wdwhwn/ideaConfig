@@ -1,5 +1,6 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="com.mysql.cj.jdbc.Driver" name="com.mysql.cj.jdbc.Driver" driver-class="com.mysql.cj.jdbc.Driver" />
     <driver id="h2.unified" name="H2" dialect="H2">
       <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
