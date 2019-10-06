@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="comm">
+      <CLASSES>
+        <root url="jar://F:/jeecg/wdwhwn-master/Message-zhujie/WebContent/WEB-INF/lib/comm.jar!/" />
+        <root url="jar://F:/jeecg/wdwhwn-master/Message-zhujie/WebContent/WEB-INF/lib/fastjson-1.2.7.jar!/" />
+        <root url="jar://F:/jeecg/wdwhwn-master/Message-zhujie/WebContent/WEB-INF/lib/hutool-all-4.1.19.jar!/" />
+        <root url="jar://F:/jeecg/wdwhwn-master/Message-zhujie/WebContent/WEB-INF/lib/javax.websocket-api-1.0.jar!/" />
+        <root url="jar://F:/jeecg/wdwhwn-master/Message-zhujie/WebContent/WEB-INF/lib/log4j-1.2.15.jar!/" />
+        <root url="jar://F:/jeecg/wdwhwn-master/Message-zhujie/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
