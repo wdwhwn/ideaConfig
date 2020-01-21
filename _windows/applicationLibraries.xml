@@ -12,5 +12,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="opencv-420">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Desktop/opencv-4.2.0-vc14_vc15/opencv/build/java/opencv-420.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/Desktop/opencv-4.2.0-vc14_vc15/opencv/build/java/opencv-420.jar!/" />
+      </SOURCES>
+    </library>
   </component>
 </application>
