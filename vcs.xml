@@ -90,6 +90,10 @@
           <option name="url" value="https://gitee.com/hulan/real_estate.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://106.12.241.2:8092" />
+          <option name="userName" value="dan" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\wdwhwn\Desktop" />
