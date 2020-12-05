@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="comm">
+      <CLASSES>
+        <root url="jar://E:/company_code/repository/kejiguan/system/javaxcomm/comm.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
