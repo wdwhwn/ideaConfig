@@ -92,11 +92,27 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://106.12.241.2:8092" />
+          <option name="userName" value="root" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.cnmr.vip/hnjzsoft/armedpolice" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.cnmr.vip" />
           <option name="userName" value="dan" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://106.12.241.2:8092/hnjzsoft/armedpolice" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dan@106.12.241.2:8092/hnjzsoft/armedpolice" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\wdwhwn\Desktop" />
+    <option name="cloneParentDir" value="E:\company_code\repository\git_repository\armedpolice" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
