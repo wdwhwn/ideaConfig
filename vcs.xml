@@ -114,6 +114,10 @@
           <option name="url" value="http://106.12.241.2:8092//hnjzsoft/central_control" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://106.12.241.2:8092/hnjzsoft/central_control/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\company_code\repository\123" />
