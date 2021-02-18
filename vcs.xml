@@ -100,7 +100,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.cnmr.vip" />
-          <option name="userName" value="dan" />
+          <option name="userName" value="root" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://106.12.241.2:8092/hnjzsoft/armedpolice" />
@@ -110,9 +110,13 @@
           <option name="url" value="http://dan@106.12.241.2:8092/hnjzsoft/armedpolice" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://106.12.241.2:8092//hnjzsoft/central_control" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\company_code\repository\git_repository\armedpolice" />
+    <option name="cloneParentDir" value="E:\company_code\repository\123" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">

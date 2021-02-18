@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="txtr" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
